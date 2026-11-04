@@ -1,5 +1,5 @@
 ```markdown
-# 🔥 Peak Complexity Break Statement
+# Peak Complexity Break Statement
 
 > An absurdly over-engineered, multi-threaded, colorized, statistically-obsessed demonstration of the humble `break` statement in C++.
 
